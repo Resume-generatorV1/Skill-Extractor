@@ -122,7 +122,7 @@
 
       You may add Your own copyright statement to Your modifications and
       may provide additional or different license terms and conditions
-      for use, reproduction, or distribution of Your modifications, or
+      for use, reproduction, or distribution of your modifications, or
       for any such Derivative Works as a whole, provided Your use,
       reproduction, and distribution of the Work otherwise complies with
       the conditions stated in this License.
@@ -186,7 +186,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright 2026 Surya Prasath
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -199,3 +199,29 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+   ---
+
+   THIRD-PARTY DATA NOTICES
+
+   This software integrates data from the following third-party sources,
+   each governed by their own terms:
+
+   1. ESCO (European Skills, Competences, Qualifications and Occupations)
+      Provider : European Commission
+      URL      : https://esco.ec.europa.eu/en/use-esco/download
+      Licence  : Creative Commons Attribution 4.0 International (CC BY 4.0)
+                 https://creativecommons.org/licenses/by/4.0/
+      Note     : ESCO data is used as a read-only taxonomy for skill
+                 identification. No modifications are made to the dataset.
+
+   2. Stack Overflow Tags
+      Provider : Stack Exchange, Inc.
+      URL      : https://archive.org/details/stackexchange
+      Licence  : Creative Commons Attribution-ShareAlike 4.0 International
+                 (CC BY-SA 4.0)
+                 https://creativecommons.org/licenses/by-sa/4.0/
+      Note     : Only tag names and question counts are used. No post
+                 content, user data, or other Stack Exchange material is
+                 included. Attribution to Stack Overflow is required for
+                 any redistribution of derived works that include this data.
